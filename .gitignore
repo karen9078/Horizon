@@ -45,6 +45,7 @@ data/mcp.secrets.json
 data/mcp-secrets.json
 data/mcp-runs/
 data/x_cookies_*.json
+AI 每日简报/
 
 docs/_posts/*.md
 
